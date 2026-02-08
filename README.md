@@ -11,7 +11,7 @@ To analyze customer review text and classify sentiments into **Positive**, **Neg
 - NLTK (VADER Sentiment Analyzer)
 - Matplotlib & Seaborn
 - WordCloud
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ## 📂 Dataset
 Original dataset: **Amazon Fine Food Reviews (Reviews.csv)** from Kaggle.
